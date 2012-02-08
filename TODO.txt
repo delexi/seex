@@ -1,0 +1,4 @@
+TODO
+----
+
+- OnSceneTouchEvent: handle second touch after already touched, direction of slider
